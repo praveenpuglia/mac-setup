@@ -1,3 +1,6 @@
+---
+title: Praveen's System Setup
+---
 # MacBook Setup
 
 Some people have asked me questions about my system setup. Which apps do I use and with what settings. Putting together this document to help answer those questions for anyone who wants a usable, productive & beautiful development experience.
